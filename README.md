@@ -1,4 +1,4 @@
 # collab-whoi
 Collaborating with github at whoi
 
-Hi Julie! :raising_hand:
+Hi Julie! :smile: :whale: :raising_hand: I love emojis!
