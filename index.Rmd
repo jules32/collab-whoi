@@ -19,7 +19,7 @@ Write more notes up here.
 summary(cars)
 
 # i'm going to do str()
-str(car)
+str(cars)
 
 
 ```
